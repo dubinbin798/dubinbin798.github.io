@@ -36,7 +36,7 @@ img{ width: 100%;
 }
 
 
-.top{ height:195px; margin:0 auto; }
+.top{  margin:0 auto;display: inline-block; }
 .ban{ height: 335px;
 width: 1000px;
 margin: 0 auto;}
